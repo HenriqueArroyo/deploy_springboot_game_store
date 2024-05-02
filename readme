@@ -1,0 +1,12 @@
+um Model
+   - Game
+Game Controller
+   - Listar os games
+   - Cadastrar Novo game 
+Game Repository
+   - Crud 
+Index Controller
+   - Rotas de navegação	
+Template
+   - Gameadd.html
+   - Gamelist.html
